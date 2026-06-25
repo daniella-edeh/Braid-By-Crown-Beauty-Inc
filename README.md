@@ -1,5 +1,5 @@
-# Braid-By-Crown-Studio-Inc
-Official frontend website for Braid by Crown Studio Inc. Built using HTML5, CSS3, and JavaScript, fully optimized for performance and responsive design.
+# Braid-By-Crown-Beauty-Inc
+Official frontend website for Braid by Crown Beauty Inc. Built using HTML5, CSS3, and JavaScript, fully optimized for performance and responsive design.
 An elegant, fully responsive modern frontend website built for Braid by Crown Studio Inc. to showcase premium hair styling services, about, and client lookbooks.
 
 ## 🔗 Live Demo
