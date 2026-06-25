@@ -3,7 +3,7 @@ Official frontend website for Braid by Crown Beauty Inc. Built using HTML5, CSS3
 An elegant, fully responsive modern frontend website built for Braid by Crown Studio Inc. to showcase premium hair styling services, about, and client lookbooks.
 
 ## 🔗 Live Demo
-👉 [https://daniella-edeh.github.io/Braid-By-Crown-Studio-Inc/)
+👉 [https://braidbycrownbeauty.com/)
 
 ## ✨ Features
 * **Responsive Layout:** Perfectly optimized for mobile, tablet, and desktop screens.
